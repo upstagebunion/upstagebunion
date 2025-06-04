@@ -2,22 +2,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Developer-292662?style=for-the-badge&logo=codewars&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mobile-Apps-blueviolet?style=for-the-badge&logo=flutter"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Projects-success?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-success?style=for-the-badge&logo=tensorflow"/>
 </p>
 
 <p align="center">
-  <em>Mexican developer turning coffee ☕ into code since forever</em><br>
-  <em>I build things that talk, think, analyze... and even wear shirts 🧠👕</em>
+  <em>Transforming coffee ☕ into clean, scalable, and impactful code</em><br>
+  <em>I build things that think, analyze, and even wear shirts 🧠👕</em>
 </p>
 
 ---
 
 ## 🧩 About Me
 
-- 🎓 I'm a software engineering student with a passion for **compilers, AI, and beautiful UI/UX**
-- 💻 I’ve built everything from **custom compilers in Java**, to **image segmentation models in Python**, to **mobile admin apps in Flutter**
-- 🛠️ I love **low-level logic**, but also **product-focused, clean code**
-- 🌐 Currently building full-stack solutions for **e-commerce systems** (API + mobile app + AI integrations)
+- 🎓 I'm a **Computer Systems Engineer**, passionate about building innovative solutions in **AI, full-stack development, and mobile apps**.
+- 💻 I've worked on everything from **custom compilers** to **machine learning models** to **full-stack e-commerce platforms**.
+- 🌟 I value **clean code**, **user-centric designs**, and **team collaboration**.
+- 🌐 Worked as an intern at **Premium Systems**, focusing on **Django**, **Flutter**, and **PostgreSQL**.
 
 ---
 
@@ -27,44 +27,53 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 ### 🧰 Tools & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-State_Management-53C1DE?style=flat&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Stack | What it does |
-|--------|-------|--------------|
-| 🧠 **Custom Compiler** | Java (no libs) | Lexical, syntax & semantic analyzer + CodeP generator |
-| 👕 **Craftz API** | Node.js + MongoDB + Python U-Net | Detects clothing & maps mockups onto body photos |
-| 📱 **Craftz Admin App** | Flutter + Riverpod | Inventory & product management mobile app |
-| 🔧 **Otakucraft** | Minecraft Mod (Java) | Adds fun mobs & vending machines — just because 😄 |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🧠 **Custom Compiler** | Complete lexical, syntax, and semantic analyzer built without libraries | Java |
+| 👕 **Craftz API** | Detects and maps clothing designs onto body photos | Node.js, MongoDB, TensorFlow |
+| 📱 **Craftz Admin App** | Mobile app for inventory and product management | Flutter, Riverpod |
+| 🎮 **Otakucraft Mod** | Custom Minecraft mod with animated entities and custom items | Java, Geckolib |
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=upstagebunion&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upstagebunion&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🖥 Internship at Premium Systems as a Full-Stack Developer (specialized in Django, web development, and mobile development using Flutter/Dart)
-- 📦 Expanding the **Craftz system** (e-commerce backend + mobile front)
-- 🧬 Enhancing the **AI model** for garment segmentation
-- ✨ Maintaining a GitHub portfolio that's **clean, presentable, and engaging**
+- 🌐 Enhancing **Craftz e-commerce platform** (back-end, mobile, and AI integrations)
+- 🤖 Improving the **garment segmentation model** for more accurate predictions
+- ✨ Building **modern, scalable solutions** as a Full-Stack Developer
 
 ---
 
-## 📫 Let's connect
+## 📫 Let's Connect!
 
-- 💬 Instagram: [@upstagebunion](https://instagram.com/upstagebunion)
+- 🌍 LinkedIn: [Francisco García](https://linkedin.com/in/francisco-gs)  
+- 📧 Email: fco.garcia.solis@gmail.com  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=upstagebunion&style=flat-square&color=lightgrey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=upstagebunion&style=flat-square&color=blue" alt="Profile Views" />
 </p>
